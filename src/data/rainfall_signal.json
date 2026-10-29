@@ -1,0 +1,312 @@
+[
+  {
+    "date": 20220801,
+    "Karachi": 0.03,
+    "Hyderabad": 0.0,
+    "Sukkur": 0.0,
+    "Larkana": 0.0,
+    "Nawabshah": 0.0,
+    "Mirpurkhas": 0.0,
+    "Jacobabad": 0.0
+  },
+  {
+    "date": 20220802,
+    "Karachi": 0.0,
+    "Hyderabad": 0.0,
+    "Sukkur": 0.0,
+    "Larkana": 0.0,
+    "Nawabshah": 0.0,
+    "Mirpurkhas": 0.0,
+    "Jacobabad": 0.0
+  },
+  {
+    "date": 20220803,
+    "Karachi": 0.01,
+    "Hyderabad": 0.0,
+    "Sukkur": 0.0,
+    "Larkana": 0.0,
+    "Nawabshah": 0.0,
+    "Mirpurkhas": 0.3,
+    "Jacobabad": 0.0
+  },
+  {
+    "date": 20220804,
+    "Karachi": 0.0,
+    "Hyderabad": 0.0,
+    "Sukkur": 0.78,
+    "Larkana": 0.93,
+    "Nawabshah": 0.21,
+    "Mirpurkhas": 0.27,
+    "Jacobabad": 1.2
+  },
+  {
+    "date": 20220805,
+    "Karachi": 0.77,
+    "Hyderabad": 5.2,
+    "Sukkur": 1.31,
+    "Larkana": 2.46,
+    "Nawabshah": 3.36,
+    "Mirpurkhas": 8.44,
+    "Jacobabad": 5.11
+  },
+  {
+    "date": 20220806,
+    "Karachi": 3.44,
+    "Hyderabad": 5.96,
+    "Sukkur": 4.56,
+    "Larkana": 1.41,
+    "Nawabshah": 5.89,
+    "Mirpurkhas": 7.51,
+    "Jacobabad": 1.62
+  },
+  {
+    "date": 20220807,
+    "Karachi": 4.96,
+    "Hyderabad": 0.08,
+    "Sukkur": 2.5,
+    "Larkana": 1.14,
+    "Nawabshah": 7.54,
+    "Mirpurkhas": 0.76,
+    "Jacobabad": 0.57
+  },
+  {
+    "date": 20220808,
+    "Karachi": 2.9,
+    "Hyderabad": 7.81,
+    "Sukkur": 0.0,
+    "Larkana": 0.0,
+    "Nawabshah": 8.22,
+    "Mirpurkhas": 8.88,
+    "Jacobabad": 0.35
+  },
+  {
+    "date": 20220809,
+    "Karachi": 1.47,
+    "Hyderabad": 4.3,
+    "Sukkur": 7.86,
+    "Larkana": 2.33,
+    "Nawabshah": 7.62,
+    "Mirpurkhas": 5.44,
+    "Jacobabad": 1.08
+  },
+  {
+    "date": 20220810,
+    "Karachi": 5.89,
+    "Hyderabad": 3.56,
+    "Sukkur": 0.28,
+    "Larkana": 0.64,
+    "Nawabshah": 5.64,
+    "Mirpurkhas": 6.75,
+    "Jacobabad": 1.25
+  },
+  {
+    "date": 20220811,
+    "Karachi": 8.22,
+    "Hyderabad": 2.52,
+    "Sukkur": 0.0,
+    "Larkana": 0.0,
+    "Nawabshah": 0.0,
+    "Mirpurkhas": 3.25,
+    "Jacobabad": 0.0
+  },
+  {
+    "date": 20220812,
+    "Karachi": 6.28,
+    "Hyderabad": 4.76,
+    "Sukkur": 1.28,
+    "Larkana": 1.06,
+    "Nawabshah": 1.92,
+    "Mirpurkhas": 2.78,
+    "Jacobabad": 0.68
+  },
+  {
+    "date": 20220813,
+    "Karachi": 2.28,
+    "Hyderabad": 0.75,
+    "Sukkur": 9.84,
+    "Larkana": 5.21,
+    "Nawabshah": 5.85,
+    "Mirpurkhas": 1.7,
+    "Jacobabad": 6.25
+  },
+  {
+    "date": 20220814,
+    "Karachi": 7.69,
+    "Hyderabad": 1.16,
+    "Sukkur": 3.76,
+    "Larkana": 2.44,
+    "Nawabshah": 0.58,
+    "Mirpurkhas": 0.95,
+    "Jacobabad": 5.6
+  },
+  {
+    "date": 20220815,
+    "Karachi": 1.72,
+    "Hyderabad": 3.93,
+    "Sukkur": 1.14,
+    "Larkana": 1.79,
+    "Nawabshah": 6.76,
+    "Mirpurkhas": 0.52,
+    "Jacobabad": 2.63
+  },
+  {
+    "date": 20220816,
+    "Karachi": 3.82,
+    "Hyderabad": 5.82,
+    "Sukkur": 13.65,
+    "Larkana": 7.64,
+    "Nawabshah": 7.25,
+    "Mirpurkhas": 11.49,
+    "Jacobabad": 6.27
+  },
+  {
+    "date": 20220817,
+    "Karachi": 6.54,
+    "Hyderabad": 6.74,
+    "Sukkur": 2.76,
+    "Larkana": 5.71,
+    "Nawabshah": 8.63,
+    "Mirpurkhas": 9.93,
+    "Jacobabad": 18.13
+  },
+  {
+    "date": 20220818,
+    "Karachi": 2.02,
+    "Hyderabad": 5.54,
+    "Sukkur": 3.66,
+    "Larkana": 4.78,
+    "Nawabshah": 9.59,
+    "Mirpurkhas": 6.95,
+    "Jacobabad": 2.03
+  },
+  {
+    "date": 20220819,
+    "Karachi": 1.45,
+    "Hyderabad": 7.41,
+    "Sukkur": 9.46,
+    "Larkana": 4.18,
+    "Nawabshah": 8.78,
+    "Mirpurkhas": 7.81,
+    "Jacobabad": 3.0
+  },
+  {
+    "date": 20220820,
+    "Karachi": 0.6,
+    "Hyderabad": 2.5,
+    "Sukkur": 9.73,
+    "Larkana": 7.15,
+    "Nawabshah": 1.04,
+    "Mirpurkhas": 0.62,
+    "Jacobabad": 14.36
+  },
+  {
+    "date": 20220821,
+    "Karachi": 1.7,
+    "Hyderabad": 2.62,
+    "Sukkur": 11.02,
+    "Larkana": 14.55,
+    "Nawabshah": 25.25,
+    "Mirpurkhas": 1.98,
+    "Jacobabad": 9.36
+  },
+  {
+    "date": 20220822,
+    "Karachi": 1.16,
+    "Hyderabad": 0.33,
+    "Sukkur": 9.79,
+    "Larkana": 25.76,
+    "Nawabshah": 1.3,
+    "Mirpurkhas": 2.0,
+    "Jacobabad": 4.83
+  },
+  {
+    "date": 20220823,
+    "Karachi": 3.11,
+    "Hyderabad": 5.93,
+    "Sukkur": 12.91,
+    "Larkana": 8.42,
+    "Nawabshah": 9.24,
+    "Mirpurkhas": 13.66,
+    "Jacobabad": 12.56
+  },
+  {
+    "date": 20220824,
+    "Karachi": 5.05,
+    "Hyderabad": 3.56,
+    "Sukkur": 10.48,
+    "Larkana": 13.1,
+    "Nawabshah": 10.31,
+    "Mirpurkhas": 2.79,
+    "Jacobabad": 5.84
+  },
+  {
+    "date": 20220825,
+    "Karachi": 0.21,
+    "Hyderabad": 0.57,
+    "Sukkur": 1.11,
+    "Larkana": 3.55,
+    "Nawabshah": 1.1,
+    "Mirpurkhas": 0.27,
+    "Jacobabad": 4.66
+  },
+  {
+    "date": 20220826,
+    "Karachi": 0.0,
+    "Hyderabad": 0.0,
+    "Sukkur": 2.28,
+    "Larkana": 1.94,
+    "Nawabshah": 1.38,
+    "Mirpurkhas": 0.51,
+    "Jacobabad": 2.26
+  },
+  {
+    "date": 20220827,
+    "Karachi": 0.0,
+    "Hyderabad": 0.0,
+    "Sukkur": 1.97,
+    "Larkana": 1.55,
+    "Nawabshah": 0.0,
+    "Mirpurkhas": 0.3,
+    "Jacobabad": 1.85
+  },
+  {
+    "date": 20220828,
+    "Karachi": 0.0,
+    "Hyderabad": 0.0,
+    "Sukkur": 1.5,
+    "Larkana": 2.45,
+    "Nawabshah": 0.99,
+    "Mirpurkhas": 3.55,
+    "Jacobabad": 2.37
+  },
+  {
+    "date": 20220829,
+    "Karachi": 2.31,
+    "Hyderabad": 0.0,
+    "Sukkur": 3.24,
+    "Larkana": 3.01,
+    "Nawabshah": 0.96,
+    "Mirpurkhas": 0.0,
+    "Jacobabad": 2.97
+  },
+  {
+    "date": 20220830,
+    "Karachi": 0.03,
+    "Hyderabad": 0.0,
+    "Sukkur": 1.59,
+    "Larkana": 1.62,
+    "Nawabshah": 0.92,
+    "Mirpurkhas": 0.0,
+    "Jacobabad": 2.18
+  },
+  {
+    "date": 20220831,
+    "Karachi": 0.0,
+    "Hyderabad": 0.0,
+    "Sukkur": 5.22,
+    "Larkana": 6.5,
+    "Nawabshah": 1.76,
+    "Mirpurkhas": 0.0,
+    "Jacobabad": 5.55
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "lat": 24.95,
+    "lon": 66.75,
+    "city": "Karachi",
+    "elevation_m": 15.32,
+    "elevation_std": 18.99,
+    "slope_deg": 1.7398,
+    "cell_id": "cell_01"
+  },
+  {
+    "lat": 24.95,
+    "lon": 66.85,
+    "city": "Karachi",
+    "elevation_m": 38.8,
+    "elevation_std": 23.64,
+    "slope_deg": 2.4182,
+    "cell_id": "cell_02"
+  },
+  {
+    "lat": 24.95,
+    "lon": 66.95,
+    "city": "Karachi",
+    "elevation_m": 48.85,
+    "elevation_std": 17.92,
+    "slope_deg": 2.39,
+    "cell_id": "cell_03"
+  },
+  {
+    "lat": 25.05,
+    "lon": 66.95,
+    "city": "Karachi",
+    "elevation_m": 38.35,
+    "elevation_std": 10.21,
+    "slope_deg": 1.3186,
+    "cell_id": "cell_04"
+  },
+  {
+    "lat": 24.85,
+    "lon": 67.05,
+    "city": "Karachi",
+    "elevation_m": 14.08,
+    "elevation_std": 10.93,
+    "slope_deg": 2.9954,
+    "cell_id": "cell_05"
+  },
+  {
+    "lat": 24.95,
+    "lon": 67.05,
+    "city": "Karachi",
+    "elevation_m": 46.95,
+    "elevation_std": 19.17,
+    "slope_deg": 3.2898,
+    "cell_id": "cell_06"
+  },
+  {
+    "lat": 25.05,
+    "lon": 67.05,
+    "city": "Karachi",
+    "elevation_m": 67.36,
+    "elevation_std": 17.24,
+    "slope_deg": 2.0083,
+    "cell_id": "cell_07"
+  },
+  {
+    "lat": 25.15,
+    "lon": 67.05,
+    "city": "Karachi",
+    "elevation_m": 82.96,
+    "elevation_std": 31.08,
+    "slope_deg": 2.9017,
+    "cell_id": "cell_08"
+  },
+  {
+    "lat": 24.85,
+    "lon": 67.15,
+    "city": "Karachi",
+    "elevation_m": 15.28,
+    "elevation_std": 8.18,
+    "slope_deg": 2.1598,
+    "cell_id": "cell_09"
+  },
+  {
+    "lat": 24.95,
+    "lon": 67.15,
+    "city": "Karachi",
+    "elevation_m": 45.99,
+    "elevation_std": 10.84,
+    "slope_deg": 1.6584,
+    "cell_id": "cell_10"
+  },
+  {
+    "lat": 25.05,
+    "lon": 67.15,
+    "city": "Karachi",
+    "elevation_m": 79.62,
+    "elevation_std": 13.41,
+    "slope_deg": 1.1021,
+    "cell_id": "cell_11"
+  },
+  {
+    "lat": 25.15,
+    "lon": 67.15,
+    "city": "Karachi",
+    "elevation_m": 138.95,
+    "elevation_std": 30.94,
+    "slope_deg": 2.0281,
+    "cell_id": "cell_12"
+  },
+  {
+    "lat": 24.85,
+    "lon": 67.25,
+    "city": "Karachi",
+    "elevation_m": 29.94,
+    "elevation_std": 12.87,
+    "slope_deg": 2.159,
+    "cell_id": "cell_13"
+  },
+  {
+    "lat": 24.95,
+    "lon": 67.25,
+    "city": "Karachi",
+    "elevation_m": 53.81,
+    "elevation_std": 10.97,
+    "slope_deg": 1.2609,
+    "cell_id": "cell_14"
+  },
+  {
+    "lat": 25.05,
+    "lon": 67.25,
+    "city": "Karachi",
+    "elevation_m": 103.11,
+    "elevation_std": 17.12,
+    "slope_deg": 1.4924,
+    "cell_id": "cell_15"
+  },
+  {
+    "lat": 25.15,
+    "lon": 67.25,
+    "city": "Karachi",
+    "elevation_m": 180.15,
+    "elevation_std": 45.83,
+    "slope_deg": 3.1833,
+    "cell_id": "cell_16"
+  },
+  {
+    "lat": 24.85,
+    "lon": 67.35,
+    "city": "Karachi",
+    "elevation_m": 38.28,
+    "elevation_std": 17.03,
+    "slope_deg": 1.571,
+    "cell_id": "cell_17"
+  },
+  {
+    "lat": 24.95,
+    "lon": 67.35,
+    "city": "Karachi",
+    "elevation_m": 79.72,
+    "elevation_std": 15.33,
+    "slope_deg": 1.6921,
+    "cell_id": "cell_18"
+  },
+  {
+    "lat": 25.05,
+    "lon": 67.35,
+    "city": "Karachi",
+    "elevation_m": 126.99,
+    "elevation_std": 26.46,
+    "slope_deg": 2.2919,
+    "cell_id": "cell_19"
+  },
+  {
+    "lat": 26.65,
+    "lon": 67.75,
+    "city": "Dadu",
+    "elevation_m": 37.49,
+    "elevation_std": 0.91,
+    "slope_deg": 0.5888,
+    "cell_id": "cell_20"
+  },
+  {
+    "lat": 26.75,
+    "lon": 67.75,
+    "city": "Dadu",
+    "elevation_m": 37.65,
+    "elevation_std": 1.45,
+    "slope_deg": 0.6478,
+    "cell_id": "cell_21"
+  },
+  {
+    "lat": 24.75,
+    "lon": 67.85,
+    "city": "Thatta",
+    "elevation_m": 9.7,
+    "elevation_std": 4.82,
+    "slope_deg": 0.6999,
+    "cell_id": "cell_22"
+  },
+  {
+    "lat": 26.65,
+    "lon": 67.85,
+    "city": "Dadu",
+    "elevation_m": 37.48,
+    "elevation_std": 1.6,
+    "slope_deg": 0.6792,
+    "cell_id": "cell_23"
+  },
+  {
+    "lat": 26.75,
+    "lon": 67.85,
+    "city": "Dadu",
+    "elevation_m": 38.27,
+    "elevation_std": 1.56,
+    "slope_deg": 0.6855,
+    "cell_id": "cell_24"
+  },
+  {
+    "lat": 24.65,
+    "lon": 67.95,
+    "city": "Thatta",
+    "elevation_m": 8.77,
+    "elevation_std": 2.01,
+    "slope_deg": 0.8122,
+    "cell_id": "cell_25"
+  },
+  {
+    "lat": 24.75,
+    "lon": 67.95,
+    "city": "Thatta",
+    "elevation_m": 10.05,
+    "elevation_std": 1.71,
+    "slope_deg": 0.7411,
+    "cell_id": "cell_26"
+  },
+  {
+    "lat": 24.85,
+    "lon": 67.95,
+    "city": "Thatta",
+    "elevation_m": 23.99,
+    "elevation_std": 12.97,
+    "slope_deg": 1.2071,
+    "cell_id": "cell_27"
+  },
+  {
+    "lat": 27.55,
+    "lon": 67.95,
+    "city": "Kambar",
+    "elevation_m": 44.85,
+    "elevation_std": 1.35,
+    "slope_deg": 0.4665,
+    "cell_id": "cell_28"
+  },
+  {
+    "lat": 27.65,
+    "lon": 67.95,
+    "city": "Kambar",
+    "elevation_m": 45.8,
+    "elevation_std": 1.02,
+    "slope_deg": 0.4521,
+    "cell_id": "cell_29"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.05,
+    "city": "Kambar",
+    "elevation_m": 46.35,
+    "elevation_std": 1.03,
+    "slope_deg": 0.522,
+    "cell_id": "cell_30"
+  },
+  {
+    "lat": 27.65,
+    "lon": 68.05,
+    "city": "Kambar",
+    "elevation_m": 47.51,
+    "elevation_std": 0.94,
+    "slope_deg": 0.4823,
+    "cell_id": "cell_31"
+  },
+  {
+    "lat": 27.45,
+    "lon": 68.15,
+    "city": "Larkana",
+    "elevation_m": 48.41,
+    "elevation_std": 1.18,
+    "slope_deg": 0.5949,
+    "cell_id": "cell_32"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.15,
+    "city": "Larkana",
+    "elevation_m": 48.33,
+    "elevation_std": 1.42,
+    "slope_deg": 0.5735,
+    "cell_id": "cell_33"
+  },
+  {
+    "lat": 27.65,
+    "lon": 68.15,
+    "city": "Larkana",
+    "elevation_m": 48.43,
+    "elevation_std": 0.78,
+    "slope_deg": 0.5,
+    "cell_id": "cell_34"
+  },
+  {
+    "lat": 25.25,
+    "lon": 68.25,
+    "city": "Hyderabad",
+    "elevation_m": 26.57,
+    "elevation_std": 7.49,
+    "slope_deg": 1.0067,
+    "cell_id": "cell_35"
+  },
+  {
+    "lat": 25.35,
+    "lon": 68.25,
+    "city": "Hyderabad",
+    "elevation_m": 44.4,
+    "elevation_std": 16.57,
+    "slope_deg": 1.2769,
+    "cell_id": "cell_36"
+  },
+  {
+    "lat": 25.45,
+    "lon": 68.25,
+    "city": "Hyderabad",
+    "elevation_m": 45.84,
+    "elevation_std": 16.65,
+    "slope_deg": 1.3887,
+    "cell_id": "cell_37"
+  },
+  {
+    "lat": 25.55,
+    "lon": 68.25,
+    "city": "Hyderabad",
+    "elevation_m": 59.93,
+    "elevation_std": 25.61,
+    "slope_deg": 2.8265,
+    "cell_id": "cell_38"
+  },
+  {
+    "lat": 27.45,
+    "lon": 68.25,
+    "city": "Larkana",
+    "elevation_m": 49.39,
+    "elevation_std": 1.57,
+    "slope_deg": 0.7325,
+    "cell_id": "cell_39"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.25,
+    "city": "Larkana",
+    "elevation_m": 50.86,
+    "elevation_std": 2.0,
+    "slope_deg": 0.9959,
+    "cell_id": "cell_40"
+  },
+  {
+    "lat": 27.65,
+    "lon": 68.25,
+    "city": "Larkana",
+    "elevation_m": 50.21,
+    "elevation_std": 1.34,
+    "slope_deg": 0.5916,
+    "cell_id": "cell_41"
+  },
+  {
+    "lat": 25.25,
+    "lon": 68.35,
+    "city": "Hyderabad",
+    "elevation_m": 32.69,
+    "elevation_std": 18.89,
+    "slope_deg": 1.9068,
+    "cell_id": "cell_42"
+  },
+  {
+    "lat": 25.35,
+    "lon": 68.35,
+    "city": "Hyderabad",
+    "elevation_m": 24.74,
+    "elevation_std": 8.1,
+    "slope_deg": 1.8192,
+    "cell_id": "cell_43"
+  },
+  {
+    "lat": 25.45,
+    "lon": 68.35,
+    "city": "Hyderabad",
+    "elevation_m": 20.92,
+    "elevation_std": 2.57,
+    "slope_deg": 1.045,
+    "cell_id": "cell_44"
+  },
+  {
+    "lat": 25.55,
+    "lon": 68.35,
+    "city": "Hyderabad",
+    "elevation_m": 25.13,
+    "elevation_std": 5.95,
+    "slope_deg": 1.0047,
+    "cell_id": "cell_45"
+  },
+  {
+    "lat": 26.15,
+    "lon": 68.35,
+    "city": "Nawabshah",
+    "elevation_m": 29.68,
+    "elevation_std": 1.48,
+    "slope_deg": 0.6328,
+    "cell_id": "cell_46"
+  },
+  {
+    "lat": 26.25,
+    "lon": 68.35,
+    "city": "Nawabshah",
+    "elevation_m": 31.39,
+    "elevation_std": 1.65,
+    "slope_deg": 0.6202,
+    "cell_id": "cell_47"
+  },
+  {
+    "lat": 26.35,
+    "lon": 68.35,
+    "city": "Nawabshah",
+    "elevation_m": 33.04,
+    "elevation_std": 1.34,
+    "slope_deg": 0.5554,
+    "cell_id": "cell_48"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.35,
+    "city": "Larkana",
+    "elevation_m": 51.72,
+    "elevation_std": 2.27,
+    "slope_deg": 0.8872,
+    "cell_id": "cell_49"
+  },
+  {
+    "lat": 28.25,
+    "lon": 68.35,
+    "city": "Jacobabad",
+    "elevation_m": 54.04,
+    "elevation_std": 0.66,
+    "slope_deg": 0.3981,
+    "cell_id": "cell_50"
+  },
+  {
+    "lat": 25.25,
+    "lon": 68.45,
+    "city": "Hyderabad",
+    "elevation_m": 22.33,
+    "elevation_std": 9.47,
+    "slope_deg": 1.6068,
+    "cell_id": "cell_51"
+  },
+  {
+    "lat": 25.35,
+    "lon": 68.45,
+    "city": "Hyderabad",
+    "elevation_m": 19.03,
+    "elevation_std": 1.47,
+    "slope_deg": 0.9489,
+    "cell_id": "cell_52"
+  },
+  {
+    "lat": 25.45,
+    "lon": 68.45,
+    "city": "Hyderabad",
+    "elevation_m": 21.27,
+    "elevation_std": 1.27,
+    "slope_deg": 0.8754,
+    "cell_id": "cell_53"
+  },
+  {
+    "lat": 25.55,
+    "lon": 68.45,
+    "city": "Hyderabad",
+    "elevation_m": 23.04,
+    "elevation_std": 1.54,
+    "slope_deg": 0.8266,
+    "cell_id": "cell_54"
+  },
+  {
+    "lat": 26.15,
+    "lon": 68.45,
+    "city": "Nawabshah",
+    "elevation_m": 28.66,
+    "elevation_std": 0.96,
+    "slope_deg": 0.5558,
+    "cell_id": "cell_55"
+  },
+  {
+    "lat": 26.25,
+    "lon": 68.45,
+    "city": "Nawabshah",
+    "elevation_m": 29.69,
+    "elevation_std": 1.44,
+    "slope_deg": 0.6326,
+    "cell_id": "cell_56"
+  },
+  {
+    "lat": 26.35,
+    "lon": 68.45,
+    "city": "Nawabshah",
+    "elevation_m": 31.17,
+    "elevation_std": 1.68,
+    "slope_deg": 0.5449,
+    "cell_id": "cell_57"
+  },
+  {
+    "lat": 28.15,
+    "lon": 68.45,
+    "city": "Jacobabad",
+    "elevation_m": 55.89,
+    "elevation_std": 0.87,
+    "slope_deg": 0.5328,
+    "cell_id": "cell_58"
+  },
+  {
+    "lat": 28.25,
+    "lon": 68.45,
+    "city": "Jacobabad",
+    "elevation_m": 56.01,
+    "elevation_std": 1.14,
+    "slope_deg": 0.643,
+    "cell_id": "cell_59"
+  },
+  {
+    "lat": 28.35,
+    "lon": 68.45,
+    "city": "Jacobabad",
+    "elevation_m": 54.58,
+    "elevation_std": 0.6,
+    "slope_deg": 0.4477,
+    "cell_id": "cell_60"
+  },
+  {
+    "lat": 25.35,
+    "lon": 68.55,
+    "city": "Hyderabad",
+    "elevation_m": 20.27,
+    "elevation_std": 1.63,
+    "slope_deg": 1.034,
+    "cell_id": "cell_61"
+  },
+  {
+    "lat": 25.45,
+    "lon": 68.55,
+    "city": "Hyderabad",
+    "elevation_m": 21.68,
+    "elevation_std": 1.79,
+    "slope_deg": 1.1093,
+    "cell_id": "cell_62"
+  },
+  {
+    "lat": 26.25,
+    "lon": 68.55,
+    "city": "Nawabshah",
+    "elevation_m": 28.02,
+    "elevation_std": 0.82,
+    "slope_deg": 0.4516,
+    "cell_id": "cell_63"
+  },
+  {
+    "lat": 27.95,
+    "lon": 68.55,
+    "city": "Shikarpur",
+    "elevation_m": 56.51,
+    "elevation_std": 0.88,
+    "slope_deg": 0.4603,
+    "cell_id": "cell_64"
+  },
+  {
+    "lat": 28.25,
+    "lon": 68.55,
+    "city": "Jacobabad",
+    "elevation_m": 57.1,
+    "elevation_std": 0.77,
+    "slope_deg": 0.4577,
+    "cell_id": "cell_65"
+  },
+  {
+    "lat": 28.35,
+    "lon": 68.55,
+    "city": "Jacobabad",
+    "elevation_m": 56.11,
+    "elevation_std": 1.08,
+    "slope_deg": 0.4163,
+    "cell_id": "cell_66"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.65,
+    "city": "Khairpur",
+    "elevation_m": 54.68,
+    "elevation_std": 1.89,
+    "slope_deg": 1.3582,
+    "cell_id": "cell_67"
+  },
+  {
+    "lat": 27.85,
+    "lon": 68.65,
+    "city": "Shikarpur",
+    "elevation_m": 57.18,
+    "elevation_std": 1.15,
+    "slope_deg": 0.6401,
+    "cell_id": "cell_68"
+  },
+  {
+    "lat": 27.95,
+    "lon": 68.65,
+    "city": "Shikarpur",
+    "elevation_m": 58.71,
+    "elevation_std": 1.32,
+    "slope_deg": 0.742,
+    "cell_id": "cell_69"
+  },
+  {
+    "lat": 28.05,
+    "lon": 68.65,
+    "city": "Shikarpur",
+    "elevation_m": 58.44,
+    "elevation_std": 0.73,
+    "slope_deg": 0.4604,
+    "cell_id": "cell_70"
+  },
+  {
+    "lat": 24.65,
+    "lon": 68.75,
+    "city": "Badin",
+    "elevation_m": 7.45,
+    "elevation_std": 0.85,
+    "slope_deg": 0.4471,
+    "cell_id": "cell_71"
+  },
+  {
+    "lat": 27.45,
+    "lon": 68.75,
+    "city": "Khairpur",
+    "elevation_m": 55.01,
+    "elevation_std": 1.62,
+    "slope_deg": 1.1378,
+    "cell_id": "cell_72"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.75,
+    "city": "Khairpur",
+    "elevation_m": 57.18,
+    "elevation_std": 2.49,
+    "slope_deg": 1.6484,
+    "cell_id": "cell_73"
+  },
+  {
+    "lat": 27.65,
+    "lon": 68.75,
+    "city": "Khairpur",
+    "elevation_m": 59.5,
+    "elevation_std": 2.8,
+    "slope_deg": 1.7271,
+    "cell_id": "cell_74"
+  },
+  {
+    "lat": 27.75,
+    "lon": 68.75,
+    "city": "Sukkur",
+    "elevation_m": 58.43,
+    "elevation_std": 1.74,
+    "slope_deg": 0.8984,
+    "cell_id": "cell_75"
+  },
+  {
+    "lat": 27.95,
+    "lon": 68.75,
+    "city": "Shikarpur",
+    "elevation_m": 59.4,
+    "elevation_std": 1.04,
+    "slope_deg": 0.4936,
+    "cell_id": "cell_76"
+  },
+  {
+    "lat": 24.55,
+    "lon": 68.85,
+    "city": "Badin",
+    "elevation_m": 6.13,
+    "elevation_std": 1.05,
+    "slope_deg": 0.515,
+    "cell_id": "cell_77"
+  },
+  {
+    "lat": 24.65,
+    "lon": 68.85,
+    "city": "Badin",
+    "elevation_m": 8.08,
+    "elevation_std": 1.16,
+    "slope_deg": 0.6493,
+    "cell_id": "cell_78"
+  },
+  {
+    "lat": 24.75,
+    "lon": 68.85,
+    "city": "Badin",
+    "elevation_m": 9.27,
+    "elevation_std": 1.09,
+    "slope_deg": 0.5977,
+    "cell_id": "cell_79"
+  },
+  {
+    "lat": 26.05,
+    "lon": 68.85,
+    "city": "Sanghar",
+    "elevation_m": 22.33,
+    "elevation_std": 0.73,
+    "slope_deg": 0.4761,
+    "cell_id": "cell_80"
+  },
+  {
+    "lat": 27.55,
+    "lon": 68.85,
+    "city": "Khairpur",
+    "elevation_m": 57.52,
+    "elevation_std": 2.52,
+    "slope_deg": 1.374,
+    "cell_id": "cell_81"
+  },
+  {
+    "lat": 27.65,
+    "lon": 68.85,
+    "city": "Sukkur",
+    "elevation_m": 60.44,
+    "elevation_std": 3.72,
+    "slope_deg": 1.8521,
+    "cell_id": "cell_82"
+  },
+  {
+    "lat": 27.75,
+    "lon": 68.85,
+    "city": "Sukkur",
+    "elevation_m": 61.91,
+    "elevation_std": 2.35,
+    "slope_deg": 1.308,
+    "cell_id": "cell_83"
+  },
+  {
+    "lat": 27.85,
+    "lon": 68.85,
+    "city": "Sukkur",
+    "elevation_m": 62.57,
+    "elevation_std": 1.88,
+    "slope_deg": 0.8826,
+    "cell_id": "cell_84"
+  },
+  {
+    "lat": 24.65,
+    "lon": 68.95,
+    "city": "Badin",
+    "elevation_m": 7.58,
+    "elevation_std": 1.22,
+    "slope_deg": 0.6696,
+    "cell_id": "cell_85"
+  },
+  {
+    "lat": 25.45,
+    "lon": 68.95,
+    "city": "Mirpurkhas",
+    "elevation_m": 17.05,
+    "elevation_std": 1.29,
+    "slope_deg": 0.7519,
+    "cell_id": "cell_86"
+  },
+  {
+    "lat": 25.55,
+    "lon": 68.95,
+    "city": "Mirpurkhas",
+    "elevation_m": 17.2,
+    "elevation_std": 0.96,
+    "slope_deg": 0.6574,
+    "cell_id": "cell_87"
+  },
+  {
+    "lat": 25.65,
+    "lon": 68.95,
+    "city": "Mirpurkhas",
+    "elevation_m": 18.73,
+    "elevation_std": 0.98,
+    "slope_deg": 0.6348,
+    "cell_id": "cell_88"
+  },
+  {
+    "lat": 25.95,
+    "lon": 68.95,
+    "city": "Sanghar",
+    "elevation_m": 20.82,
+    "elevation_std": 0.92,
+    "slope_deg": 0.4362,
+    "cell_id": "cell_89"
+  },
+  {
+    "lat": 26.05,
+    "lon": 68.95,
+    "city": "Sanghar",
+    "elevation_m": 21.19,
+    "elevation_std": 0.78,
+    "slope_deg": 0.4814,
+    "cell_id": "cell_90"
+  },
+  {
+    "lat": 26.15,
+    "lon": 68.95,
+    "city": "Sanghar",
+    "elevation_m": 23.09,
+    "elevation_std": 1.76,
+    "slope_deg": 0.6762,
+    "cell_id": "cell_91"
+  },
+  {
+    "lat": 27.65,
+    "lon": 68.95,
+    "city": "Sukkur",
+    "elevation_m": 65.34,
+    "elevation_std": 10.99,
+    "slope_deg": 2.5744,
+    "cell_id": "cell_92"
+  },
+  {
+    "lat": 27.75,
+    "lon": 68.95,
+    "city": "Sukkur",
+    "elevation_m": 61.93,
+    "elevation_std": 1.67,
+    "slope_deg": 0.8129,
+    "cell_id": "cell_93"
+  },
+  {
+    "lat": 25.45,
+    "lon": 69.05,
+    "city": "Mirpurkhas",
+    "elevation_m": 14.46,
+    "elevation_std": 0.99,
+    "slope_deg": 0.6407,
+    "cell_id": "cell_94"
+  },
+  {
+    "lat": 25.55,
+    "lon": 69.05,
+    "city": "Mirpurkhas",
+    "elevation_m": 16.06,
+    "elevation_std": 1.26,
+    "slope_deg": 0.7743,
+    "cell_id": "cell_95"
+  },
+  {
+    "lat": 25.65,
+    "lon": 69.05,
+    "city": "Mirpurkhas",
+    "elevation_m": 17.76,
+    "elevation_std": 1.16,
+    "slope_deg": 0.6691,
+    "cell_id": "cell_96"
+  },
+  {
+    "lat": 26.05,
+    "lon": 69.05,
+    "city": "Sanghar",
+    "elevation_m": 20.17,
+    "elevation_std": 1.02,
+    "slope_deg": 0.4575,
+    "cell_id": "cell_97"
+  },
+  {
+    "lat": 25.55,
+    "lon": 69.15,
+    "city": "Mirpurkhas",
+    "elevation_m": 15.54,
+    "elevation_std": 0.89,
+    "slope_deg": 0.614,
+    "cell_id": "cell_98"
+  }
+]
