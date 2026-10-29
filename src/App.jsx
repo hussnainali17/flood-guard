@@ -7,7 +7,6 @@ import PredictionSandbox from './components/PredictionSandbox';
 import RainfallAnalytics from './components/RainfallAnalytics';
 import ModelBenchmarks from './components/ModelBenchmarks';
 import UnosatValidation from './components/UnosatValidation';
-import DeploymentHub from './components/DeploymentHub';
 import CityDetailModal from './components/CityDetailModal';
 import Footer from './components/Footer';
 import { api } from './services/api';
@@ -99,7 +98,7 @@ export default function App() {
       <div className="min-h-screen bg-ocean-950 flex flex-col items-center justify-center text-cyan-400 space-y-4">
         <div className="w-12 h-12 rounded-xl border-2 border-cyan-400/30 border-t-cyan-400 animate-spin" />
         <p className="text-xs font-mono uppercase tracking-widest text-slate-400">
-          Loading FloodSight Early Warning System...
+          Loading FloodGuard Early Warning System...
         </p>
       </div>
     );
@@ -159,10 +158,6 @@ export default function App() {
 
         {activeTab === 'unosat' && (
           <UnosatValidation />
-        )}
-
-        {activeTab === 'deploy' && (
-          <DeploymentHub />
         )}
       </main>
 

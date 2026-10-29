@@ -37,7 +37,7 @@ export default function UnosatValidation() {
           </h3>
 
           <p className="text-xs text-slate-300 leading-relaxed">
-            During the peak 2022 monsoon disaster, UNOSAT (United Nations Satellite Centre) acquired and published high-resolution Sentinel-1 C-band SAR water extent vectors for Pakistan. The FloodSight LightGBM model's predictions were independently overlaid and cross-referenced.
+            During the peak 2022 monsoon disaster, UNOSAT (United Nations Satellite Centre) acquired and published high-resolution Sentinel-1 C-band SAR water extent vectors for Pakistan. The FloodGuard LightGBM model's predictions were independently overlaid and cross-referenced.
           </p>
 
           <div className="space-y-3 pt-2">

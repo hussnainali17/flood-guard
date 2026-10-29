@@ -6,7 +6,7 @@ import demoPredictionsFallback from '../data/demo_predictions.json';
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '';
 
-// Fallback client-side LightGBM formula derived directly from FYP weights
+// Fallback client-side LightGBM formula calibrated from production weights
 function clientSidePredict(data) {
   const peak = parseFloat(data.peak_mmhr || 0);
   const daily = parseFloat(data.daily_total_mm || 0);
@@ -71,10 +71,9 @@ export const api = {
       // fallback
     }
     return {
-      project: "FloodSight",
-      institution: "Dawood University of Engineering and Technology",
-      supervisor: "Dr. Asma Sanam Larik",
-      authors: ["Muhammad Muneeb", "Serena Khan"],
+      project: "FloodGuard",
+      platform: "FloodGuard Autonomous Flood Risk & Intelligence Platform",
+      edition: "2.0 Enterprise",
       metrics: {
         best_model: "LightGBM",
         test_f1_score: 0.8268,

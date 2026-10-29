@@ -197,19 +197,20 @@ export default function GeospatialMap({
         >
           <MapRecenter center={mapCenter} zoom={mapZoom} />
 
-          {/* Base Tile Layers Switcher */}
+          {/* Base Tile Layers Switcher (100% Free, Zero API Keys Required) */}
           <LayersControl position="topright">
-            <LayersControl.BaseLayer checked name="Dark Oceanic (Cyber)">
+            <LayersControl.BaseLayer checked name="Dark Oceanic (Esri)">
               <TileLayer
-                attribution='&copy; <a href="https://carto.com/">CARTO</a>'
-                url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+                attribution='Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ'
+                url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}"
+                maxZoom={16}
               />
             </LayersControl.BaseLayer>
 
             <LayersControl.BaseLayer name="Satellite Imagery">
               <TileLayer
                 attribution='Tiles &copy; Esri'
-                url="https://server.arcgisonline.com/ArcMap/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+                url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
               />
             </LayersControl.BaseLayer>
 
@@ -217,6 +218,13 @@ export default function GeospatialMap({
               <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              />
+            </LayersControl.BaseLayer>
+
+            <LayersControl.BaseLayer name="Topographic Relief">
+              <TileLayer
+                attribution='Tiles &copy; Esri'
+                url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}"
               />
             </LayersControl.BaseLayer>
           </LayersControl>

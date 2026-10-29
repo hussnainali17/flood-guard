@@ -7,7 +7,6 @@ import {
   BarChart3, 
   ShieldAlert, 
   CloudLightning, 
-  Server, 
   Printer,
   Calendar
 } from 'lucide-react';
@@ -19,7 +18,6 @@ export default function Navbar({ activeTab, setActiveTab, selectedDate, setSelec
     { id: 'rainfall', label: 'Hydrology & Rain', icon: CloudRain },
     { id: 'benchmarks', label: 'Model Benchmarks', icon: BarChart3 },
     { id: 'unosat', label: 'UNOSAT SAR', icon: Satellite },
-    { id: 'deploy', label: 'AWS & Render Deploy', icon: Server },
   ];
 
   return (
@@ -35,7 +33,7 @@ export default function Navbar({ activeTab, setActiveTab, selectedDate, setSelec
             <div>
               <div className="flex items-center space-x-2">
                 <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-cyan-400 via-sky-200 to-blue-400 bg-clip-text text-transparent">
-                  FloodSight
+                  FloodGuard
                 </span>
                 <span className="text-xs px-2 py-0.5 rounded-full font-semibold bg-cyan-950 text-cyan-400 border border-cyan-800/80">
                   AI v2.0
@@ -93,7 +91,7 @@ export default function Navbar({ activeTab, setActiveTab, selectedDate, setSelec
               title="Export Crisis Assessment Report"
             >
               <Printer className="w-3.5 h-3.5" />
-              <span className="hidden md:inline">PDMA Report</span>
+              <span className="hidden md:inline">Risk Report</span>
             </button>
           </div>
         </div>
